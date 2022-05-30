@@ -1,16 +1,18 @@
 ### Hi there 👋
 
+- 🔭 I’m currently learning at CUHKSZ (graduated) and will move on to UIUC to finish my CS Master
+- 🌱 I’m currently learning Computer Science and Engineering lol
+- 👯 I’m looking to collaborate on High-tech Internet Company to start a software development internship / full-time job
+- 🤔 I’m looking for help with improvement on interview & algorithm & project experiences
+- 💬 Ask me about anything hhh
+- 📫 How to reach me: jingyuli@link.cuhk.edu.cn / jingyul9@illinois.edu
+- 😄 Pronouns: Whale
+- ⚡ Fun fact: Basketball & Board Game & Roombreak & Meditation & Traveling lover
+
 <!--
 **HouWhalee1222/HouWhalee1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
