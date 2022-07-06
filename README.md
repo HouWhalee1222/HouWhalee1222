@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning at CUHKSZ (graduated) and will move on to UIUC to finish my CS Master
+- 🔭 I've currently graduated from CUHKSZ and obtained my Bachelor's degree in CSE
+- 📚 I will move on to UIUC to finish my CS Master
 - 🌱 I’m currently learning Computer Science and Engineering lol
 - 👯 I’m looking to collaborate on High-tech Internet Company to start a software development internship / full-time job
 - 🤔 I’m looking for help with improvement on interview & algorithm & project experiences
