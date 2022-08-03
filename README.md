@@ -6,8 +6,7 @@
 - 👯 I’m looking to collaborate on High-tech Internet Company to start a software development internship / full-time job
 - 🤔 I’m looking for help with improvement on interview & algorithm & project experiences
 - 💬 Ask me about anything hhh
-- 📫 How to reach me: jingyuli@link.cuhk.edu.cn / jingyul9@illinois.edu
-- 😄 Pronouns: Whale
+- 📫 How to reach me: jingyul9@illinois.edu / jingyuli@link.cuhk.edu.cn
 - ⚡ Fun fact: Basketball & Board Game & Roombreak & Meditation & Traveling lover
 
 <!--
