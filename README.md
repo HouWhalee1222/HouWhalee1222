@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I've graduated from CUHKSZ and UIUC and obtained my CS Master's and Bachelor's degree
-- 🌱 I’m currently work as a software engineer at a startup
+- 🔭 I've graduated from UIUC and CUHKSZ and obtained my CS Master's and Bachelor's degree
+- 🌱 I currently work as a Software Engineer at a startup
 - 📫 How to reach me: lijingyu1222@gmail.com
 - ⚡ Fun fact: Gym & Basketball & Board Game & Roombreak & Meditation & Traveling lover
 
