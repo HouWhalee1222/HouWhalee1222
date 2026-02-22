@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I've currently graduated from CUHKSZ and obtained my Bachelor's degree in CSE
-- 📚 I will move on to UIUC to finish my CS Master
-- 🌱 I’m currently learning Computer Science and Engineering lol
-- 👯 I’m looking to collaborate on High-tech Internet Company to start a software development internship / full-time job
-- 🤔 I’m looking for help with improvement on interview & algorithm & project experiences
-- 💬 Ask me about anything hhh
-- 📫 How to reach me: jingyul9@illinois.edu / jingyuli@link.cuhk.edu.cn
-- ⚡ Fun fact: Basketball & Board Game & Roombreak & Meditation & Traveling lover
+- 🔭 I've graduated from CUHKSZ and UIUC and obtained my CS Master's and Bachelor's degree
+- 🌱 I’m currently work as a software engineer at a startup
+- 📫 How to reach me: lijingyu1222@gmail.com
+- ⚡ Fun fact: Gym & Basketball & Board Game & Roombreak & Meditation & Traveling lover
 
 <!--
 **HouWhalee1222/HouWhalee1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
